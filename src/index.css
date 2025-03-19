@@ -1,0 +1,115 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+:root {
+  --primary-color: #6dda99;
+  --secondary-color: #ffffff;
+}
+
+body {
+  background-color: var(--secondary-color);
+}
+
+.navbar {
+  background-color: var(--primary-color) !important;
+}
+
+.btn-primary {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Carousel Styles */
+.carousel-item img {
+  filter: brightness(0.8);
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.carousel-caption h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+/* Search Bar Styles */
+.navbar .input-group {
+  width: 400px;
+}
+
+.navbar .form-control {
+  border-radius: 20px 0 0 20px;
+  border: none;
+}
+
+.navbar .btn-outline-light {
+  border-radius: 0 20px 20px 0;
+  border: none;
+  background-color: white;
+  color: var(--primary-color);
+}
+
+.navbar .btn-outline-light:hover {
+  background-color: #f8f9fa;
+  color: var(--primary-color);
+}
+
+/* Championships Section */
+.championships-section {
+  background-color: #f8f9fa;
+  padding: 4rem 0;
+  border-radius: 10px;
+}
+
+.championships-section .card {
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #f8f9fa !important;
+  border-top: 1px solid #dee2e6;
+}
+
+.footer h3 {
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.footer .form-control {
+  background-color: white;
+  border: 1px solid #dee2e6;
+}
+
+.footer .social-links a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer .social-links a:hover {
+  color: #5ea8c7;
+}
+
+.contact-info p {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 992px) {
+  .navbar .input-group {
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
