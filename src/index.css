@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: var(--secondary-color);
+  background-color: rgb(206, 204, 204);
   font-family: 'Poppins', sans-serif;
 }
 

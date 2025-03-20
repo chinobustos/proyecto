@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const carouselImages = [
   {
     id: 1,
-    url: "../multimedia/imagen1.jpg",
+    url: ".../multimedia/jinete.jpg",
     title: "Inscribir Jinetes",
     description: "Un jinete, un sueño, una meta: la victoria.",
   },
