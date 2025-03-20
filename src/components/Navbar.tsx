@@ -42,6 +42,9 @@ const Navbar = () => {
             </div>
           </form>
           <ul className="navbar-nav ms-auto">
+            <li className="link__navbar"><a href="#competencias">COMPETENCIAS</a></li>
+            <li className="link__navbar"><a href="#inscripciones">iNSCRIPCIONES</a></li>
+            <li className="link__navbar"><a href="#contacto">CONTACTO</a></li>
             <li className="nav-item">
               <Link className="nav-link" to="/cart">
                 <ShoppingCart size={20} />
@@ -52,9 +55,6 @@ const Navbar = () => {
                 <User size={20} />
               </Link>
             </li>
-            <li className="link__navbar"><a href="#competencias">COMPETENCIAS</a></li>
-            <li className="link__navbar"><a href="#inscripciones">iNSCRIPCIONES</a></li>
-            <li className="link__navbar"><a href="#contacto">CONTACTO</a></li>
           </ul>
         </div>
       </div>
