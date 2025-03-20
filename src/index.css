@@ -80,7 +80,7 @@ body {
 .slider .slider-track{
   display: flex;
   animation: scroll 10s linear infinite;
-  -webkit-animation: scroll 50s linear infinite;
+  -webkit-animation: scroll 10s linear infinite;
   width: calc(200px * 14);
 }
 .slider .slide{
