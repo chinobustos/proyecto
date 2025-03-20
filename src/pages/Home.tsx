@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 const carouselImages = [
   {
     id: 1,
-    url: "https://static.wixstatic.com/media/9ee2b7_95f394344a4447c0a9ed9a5ea6865149~mv2.jpg/v1/fill/w_980,h_633,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9ee2b7_95f394344a4447c0a9ed9a5ea6865149~mv2.jpg",
+    url: "../multimedia/imagen1.jpg",
     title: "Inscribir Jinetes",
     description: "Un jinete, un sueño, una meta: la victoria.",
   },
   {
     id: 2,
-    url: "https://static.wixstatic.com/media/9ee2b7_6fee5406809546babec70935fe884eb2~mv2.jpg/v1/fill/w_698,h_464,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ee2b7_6fee5406809546babec70935fe884eb2~mv2.jpg",
+    url: "https://images.unsplash.com/uploads/14136148007774dc82563/ce92d553?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhYmFsbG9zJTIwZXN0YWJsb3xlbnwwfHwwfHx8MA%3D%3D",
     title: "Inscribir Caballos",
     description: "Donde la destreza y la belleza se encuentran.",
   },
