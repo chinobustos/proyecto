@@ -167,6 +167,11 @@ const Home = () => {
              <div className="slide"><img src="https://www.vhv.rs/dpng/d/604-6047676_chile-tourism-logo-hd-png-download.png" alt=""  /> </div>
              <div className="slide"><img src="https://e7.pngegg.com/pngimages/541/42/png-clipart-horse-logos-graphic-design-horse-horse-mammal.png" alt=""  /> </div>
              <div className="slide"><img src="https://fem.org.mx/wp-content/uploads/2023/03/FEI_Logo_RGB_Purple_HR-1024x545.png" alt=""  /> </div>
+             <div className="slide"><img src="https://datafech.cl/assets/public/img/fech.png" alt="" /></div>
+             <div className="slide"><img src="https://www.citypng.com/public/uploads/preview/hd-black-coca-cola-logo-png-7017516947784963lgffdrc6r.png" alt=""  /> </div>
+             <div className="slide"><img src="https://www.vhv.rs/dpng/d/604-6047676_chile-tourism-logo-hd-png-download.png" alt=""  /> </div>
+             <div className="slide"><img src="https://e7.pngegg.com/pngimages/541/42/png-clipart-horse-logos-graphic-design-horse-horse-mammal.png" alt=""  /> </div>
+             <div className="slide"><img src="https://fem.org.mx/wp-content/uploads/2023/03/FEI_Logo_RGB_Purple_HR-1024x545.png" alt=""  /> </div>
           </div>
         </div>
 
