@@ -251,22 +251,19 @@ const Home = () => {
               </form>
             </div>
             <div className="col-md-6">
-              <h3>About EquestrianPro</h3>
+              <h3>About Asociación Encuentre</h3>
               <p>
-                We are dedicated to connecting horse enthusiasts with their
-                perfect equine companions. With years of experience in the
-                equestrian world, we provide top-quality horses and professional
-                services.
+              Nos dedicamos a conectar a los amantes de los caballos con sus compañeros equinos ideales. Con años de experiencia en el mundo ecuestre, ofrecemos caballos de primera calidad y servicios profesionales.
               </p>
               <div className="contact-info mt-4">
                 <p>
-                  <strong>Address:</strong> 123 Equestrian Way, Madrid, Spain
+                  <strong>Direccion:</strong> Plaza Sucre 208-272, en Valparaíso, Viña del Mar
                 </p>
                 <p>
-                  <strong>Phone:</strong> +34 123 456 789
+                  <strong>Numero:</strong> +56 32 680016
                 </p>
                 <p>
-                  <strong>Email:</strong> info@equestrianpro.com
+                  <strong>Email:</strong>clubvina@vtr.net, contacto@clubvina.cl
                 </p>
               </div>
               <div className="social-links mt-4">
@@ -285,7 +282,7 @@ const Home = () => {
           <div className="row mt-4">
             <div className="col-12 text-center">
               <p className="mb-0">
-                &copy; 2024 EquestrianPro. All rights reserved.
+                &copy; 2024  Asociación Encuestre-Valparaiso. All rights reserved.
               </p>
             </div>
           </div>
