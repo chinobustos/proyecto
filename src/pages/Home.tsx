@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 const carouselImages = [
   {
     id: 1,
-    url: "https://images.unsplash.com/flagged/photo-1568381670226-fab8dc323343?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    url: "https://static.wixstatic.com/media/9ee2b7_95f394344a4447c0a9ed9a5ea6865149~mv2.jpg/v1/fill/w_980,h_633,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9ee2b7_95f394344a4447c0a9ed9a5ea6865149~mv2.jpg",
     title: "Inscribir Jinetes",
     description: "Un jinete, un sueño, una meta: la victoria.",
   },
   {
     id: 2,
-    url: "https://images.unsplash.com/photo-1617906693778-49ced8bcbb62?q=80&w=1564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    url: "https://static.wixstatic.com/media/9ee2b7_6fee5406809546babec70935fe884eb2~mv2.jpg/v1/fill/w_698,h_464,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ee2b7_6fee5406809546babec70935fe884eb2~mv2.jpg",
     title: "Inscribir Caballos",
     description: "Donde la destreza y la belleza se encuentran.",
   },
