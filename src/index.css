@@ -114,6 +114,9 @@ body {
 .championships-section .card {
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  .btn{
+    margin: 10px;
+  }
 }
 
 /* Footer Styles */
