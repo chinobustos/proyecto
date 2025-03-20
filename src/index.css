@@ -59,7 +59,13 @@ body {
   border-radius: 20px 0 0 20px;
   border: none;
 }
-
+.nav-link{
+  color: var(--terciary-color);
+}
+.link__navbar{
+  color: var(--terciary-color);
+  font-size: 20px;
+}
 .navbar .btn-outline-light {
   border-radius: 0 20px 20px 0;
   border: none;

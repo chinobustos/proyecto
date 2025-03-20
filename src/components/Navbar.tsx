@@ -52,6 +52,9 @@ const Navbar = () => {
                 <User size={20} />
               </Link>
             </li>
+            <li className="link__navbar"><a href="#competencias">COMPETENCIAS</a></li>
+            <li className="link__navbar"><a href="#inscripciones">iNSCRIPCIONES</a></li>
+            <li className="link__navbar"><a href="#contacto">CONTACTO</a></li>
           </ul>
         </div>
       </div>

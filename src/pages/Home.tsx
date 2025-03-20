@@ -132,7 +132,7 @@ const Home = () => {
       </div>
 
       {/* Main Content */}
-      <div className="container">
+      <div className="container" id="inscripciones">
         <div className="row mb-5">
           <div className="col-12">
             <h1 className="text-center mb-4">INSCRIPCIONES</h1>
@@ -160,7 +160,7 @@ const Home = () => {
           ))}
         </div>
         {/* Championships Section */}
-        <div className="championships-section mb-5">
+        <div className="championships-section mb-5" id="competencias">
           <h1 className="text-center mb-4">COMPETENCIAS</h1>
           <p className="text-center my-5">
             "Inscripción Abierta para la Competencia de Caballos y Jinetes"
@@ -221,17 +221,17 @@ const Home = () => {
           </div>
         </div>
       {/* Footer with Contact Form */}
-      <footer className="footer bg-light mt-5 py-5">
+      <footer className="footer bg-light mt-5 py-5" id="contacto">
         <div className="container">
           <div className="row">
             <div className="col-md-6 mb-4 mb-md-0">
-              <h3>Contact Us</h3>
+              <h3>CONTACTANOS</h3>
               <form className="contact-form">
                 <div className="mb-3">
                   <input
                     type="text"
                     className="form-control"
-                    placeholder="Your Name"
+                    placeholder="Nombre"
                     required
                   />
                 </div>
@@ -239,7 +239,7 @@ const Home = () => {
                   <input
                     type="email"
                     className="form-control"
-                    placeholder="Your Email"
+                    placeholder=" Email"
                     required
                   />
                 </div>
@@ -247,12 +247,12 @@ const Home = () => {
                   <textarea
                     className="form-control"
                     rows={4}
-                    placeholder="Your Message"
+                    placeholder="Mensaje"
                     required
                   ></textarea>
                 </div>
                 <button type="submit" className="btn btn-primary">
-                  Send Message
+                  Enviar
                 </button>
               </form>
             </div>
