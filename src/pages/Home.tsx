@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 const carouselImages = [
   {
     id: 1,
-    url: "https://images.unsplash.com/flagged/photo-1568381670226-fab8dc323343?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    url: "https://images.unsplash.com/photo-1511746687876-42cb762f6ac1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8amluZXRlcyUyMGNhYmFsbG9zfGVufDB8fDB8fHww",
     title: "Inscribir Jinetes",
     description: "Un jinete, un sueño, una meta: la victoria.",
   },
   {
     id: 2,
-    url: "https://images.unsplash.com/photo-1617906693778-49ced8bcbb62?q=80&w=1564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    url: "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "Inscribir Caballos",
     description: "Donde la destreza y la belleza se encuentran.",
   },
