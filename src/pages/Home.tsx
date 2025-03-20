@@ -189,7 +189,7 @@ const Home = () => {
                   </div>
                   <div className="card-footer bg-transparent border-0">
                     <button className="btn btn-primary w-100">
-                      Register Now
+                      Registrate Ahora
                     </button>
                   </div>
                 </div>
@@ -251,7 +251,7 @@ const Home = () => {
               </form>
             </div>
             <div className="col-md-6">
-              <h3>About Asociación Encuentre</h3>
+              <h3>Acerca de Asociación Encuentre</h3>
               <p>
               Nos dedicamos a conectar a los amantes de los caballos con sus compañeros equinos ideales. Con años de experiencia en el mundo ecuestre, ofrecemos caballos de primera calidad y servicios profesionales.
               </p>
