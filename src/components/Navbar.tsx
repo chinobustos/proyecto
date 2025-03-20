@@ -42,8 +42,8 @@ const Navbar = () => {
             </div>
           </form>
           <ul className="navbar-nav ms-auto">
-            <li className="nav-link"><a href="#competencias">COMPETENCIAS</a></li>
             <li className="nav-link"><a href="#inscripciones">iNSCRIPCIONES</a></li>
+            <li className="nav-link"><a href="#competencias">COMPETENCIAS</a></li>
             <li className="nav-link"><a href="#contacto">CONTACTO</a></li>
             <li className="nav-item">
               <Link className="nav-link" to="/cart">
