@@ -54,11 +54,11 @@ const championships = [
   },
   {
     id: 2,
-    title: "COPA LLAY LLAY",
-    category: "Enduro",
-    date: "29 de Marzo - 30 de Marzo",
-    location: "Desarrollo Agrario, Llay Llay",
-    address: "Camino las Flores 13.000, Las Condes",
+    title: "TEST PLATAFORMA-Santiago ",
+    category: "SALTO",
+    date: "02 de Diciembre - 31 de Diciembre",
+    location: "Paperchase Club",
+    address: "Calle 123.",
     image:
       "https://images.unsplash.com/photo-1593353918842-5e2cb1366a2c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
