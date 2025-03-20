@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const carouselImages = [
   {
     id: 1,
-    url: "https://static.wixstatic.com/media/9ee2b7_95f394344a4447c0a9ed9a5ea6865149~mv2.jpg/v1/fill/w_980,h_633,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9ee2b7_95f394344a4447c0a9ed9a5ea6865149~mv2.jpg",
+    url: "../multimedia/jinete.jpg",
     title: "Inscribir Jinetes",
     description: "Un jinete, un sueño, una meta: la victoria.",
   },
