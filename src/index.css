@@ -70,6 +70,34 @@ body {
   font-family:'Poppins', sans-serif;
   font-weight: 700;
 }
+.slider{
+  width: 70vw;
+  height: auto;
+  margin: auto;
+  overflow: hidden;
+}
+.slider .slider-track{
+  display: flex;
+  animation: scroll 300s linear infinite;
+  -webkit-animation: scroll 50s linear infinite;
+  width: calc(200px * 14);
+}
+.slider .slide{
+  width: 200px;
+}
+.slider .slide img{
+  width: 90px;
+}
+@keyframes scroll{
+  0%{
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100%{
+    -webkit-transform: translateX(calc(-200px * 7));
+    transform: translateX(calc(-200px * 7));
+  }
+}
 /* Championships Section */
 .championships-section {
   background-color: #f8f9fa;
