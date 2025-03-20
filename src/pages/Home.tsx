@@ -189,7 +189,13 @@ const Home = () => {
                   </div>
                   <div className="card-footer bg-transparent border-0">
                     <button className="btn btn-primary w-100">
-                      Registrate Ahora
+                      REGISTRATE AHORA
+                    </button>
+                    <button className="btn btn-primary w-100">
+                      VER LISTADO DE INSCRIPTOS
+                    </button>
+                    <button className="btn btn-primary w-100">
+                      DESCARGAR BASES
                     </button>
                   </div>
                 </div>
